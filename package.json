@@ -1,0 +1,9 @@
+{
+    "name": "DirectusDataBaseBauckupDes",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "moment": "^2.22.2",
+        "mysqldump": "^2.2.1"
+    }
+}
